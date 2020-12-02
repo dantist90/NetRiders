@@ -1,0 +1,262 @@
+fileFormatVersion: 2
+guid: 5c3ed8473a5156a49b5eb9f1cfc37722
+timeCreated: 1518005766
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Box004
+    100002: Box005
+    100004: Box006
+    100006: Box008
+    100008: Box009
+    100010: Box010
+    100012: Box011
+    100014: Box012
+    100016: Cylinder013
+    100018: Object028
+    100020: Object029
+    100022: Object030
+    100024: Object031
+    100026: Object032
+    100028: Object033
+    100030: Object034
+    100032: Object035
+    100034: Object036
+    100036: Object037
+    100038: Object038
+    100040: Object039
+    100042: Object041
+    100044: Object042
+    100046: Object045
+    100048: Object046
+    100050: Object047
+    100052: Object049
+    100054: Object051
+    100056: Object053
+    100058: Object058
+    100060: Object059
+    100062: Object060
+    100064: Object061
+    100066: //RootNode
+    100068: Tube001
+    400000: Box004
+    400002: Box005
+    400004: Box006
+    400006: Box008
+    400008: Box009
+    400010: Box010
+    400012: Box011
+    400014: Box012
+    400016: Cylinder013
+    400018: Object028
+    400020: Object029
+    400022: Object030
+    400024: Object031
+    400026: Object032
+    400028: Object033
+    400030: Object034
+    400032: Object035
+    400034: Object036
+    400036: Object037
+    400038: Object038
+    400040: Object039
+    400042: Object041
+    400044: Object042
+    400046: Object045
+    400048: Object046
+    400050: Object047
+    400052: Object049
+    400054: Object051
+    400056: Object053
+    400058: Object058
+    400060: Object059
+    400062: Object060
+    400064: Object061
+    400066: //RootNode
+    400068: Tube001
+    2100000: No Name
+    2100002: 'Material #13'
+    2300000: Box004
+    2300002: Box005
+    2300004: Box006
+    2300006: Box008
+    2300008: Box009
+    2300010: Box010
+    2300012: Box011
+    2300014: Box012
+    2300016: Cylinder013
+    2300018: Object028
+    2300020: Object029
+    2300022: Object030
+    2300024: Object031
+    2300026: Object032
+    2300028: Object033
+    2300030: Object034
+    2300032: Object035
+    2300034: Object036
+    2300036: Object037
+    2300038: Object038
+    2300040: Object039
+    2300042: Object041
+    2300044: Object042
+    2300046: Object045
+    2300048: Object046
+    2300050: Object047
+    2300052: Object049
+    2300054: Object051
+    2300056: Object053
+    2300058: Object058
+    2300060: Object059
+    2300062: Object060
+    2300064: Object061
+    2300066: Tube001
+    3300000: Box004
+    3300002: Box005
+    3300004: Box006
+    3300006: Box008
+    3300008: Box009
+    3300010: Box010
+    3300012: Box011
+    3300014: Box012
+    3300016: Cylinder013
+    3300018: Object028
+    3300020: Object029
+    3300022: Object030
+    3300024: Object031
+    3300026: Object032
+    3300028: Object033
+    3300030: Object034
+    3300032: Object035
+    3300034: Object036
+    3300036: Object037
+    3300038: Object038
+    3300040: Object039
+    3300042: Object041
+    3300044: Object042
+    3300046: Object045
+    3300048: Object046
+    3300050: Object047
+    3300052: Object049
+    3300054: Object051
+    3300056: Object053
+    3300058: Object058
+    3300060: Object059
+    3300062: Object060
+    3300064: Object061
+    3300066: Tube001
+    4300000: Box004
+    4300002: Cylinder013
+    4300004: Object028
+    4300006: Object029
+    4300008: Tube001
+    4300010: Box005
+    4300012: Object030
+    4300014: Object031
+    4300016: Object032
+    4300018: Object033
+    4300020: Object034
+    4300022: Object035
+    4300024: Object036
+    4300026: Object037
+    4300028: Object038
+    4300030: Box006
+    4300032: Object039
+    4300034: Object041
+    4300036: Object042
+    4300038: Object045
+    4300040: Object046
+    4300042: Object047
+    4300044: Object049
+    4300046: Object051
+    4300048: Object053
+    4300050: Object058
+    4300052: Box008
+    4300054: Object059
+    4300056: Object060
+    4300058: Object061
+    4300060: Box009
+    4300062: Box010
+    4300064: Box011
+    4300066: Box012
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

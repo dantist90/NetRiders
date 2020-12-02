@@ -1,0 +1,255 @@
+fileFormatVersion: 2
+guid: ac5a38fd1564c594d9626de7d304359a
+timeCreated: 1520431250
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Object487
+    100004: Object493
+    100006: Object494
+    100008: Object495
+    100010: Object496
+    100012: Object497
+    100014: Object498
+    100016: Object499
+    100018: Object500
+    100020: Object501
+    100022: Object502
+    100024: Object504
+    100026: Object506
+    100028: Object507
+    100030: Object508
+    100032: Object509
+    100034: Object510
+    100036: Object511
+    100038: Object512
+    100040: Object513
+    100042: Object514
+    100044: Object515
+    100046: Object516
+    100048: Object517
+    100050: Object518
+    100052: Object519
+    100054: Object520
+    100056: Object522
+    100058: Object523
+    100060: Object524
+    100062: Object525
+    100064: Object526
+    400000: //RootNode
+    400002: Object487
+    400004: Object493
+    400006: Object494
+    400008: Object495
+    400010: Object496
+    400012: Object497
+    400014: Object498
+    400016: Object499
+    400018: Object500
+    400020: Object501
+    400022: Object502
+    400024: Object504
+    400026: Object506
+    400028: Object507
+    400030: Object508
+    400032: Object509
+    400034: Object510
+    400036: Object511
+    400038: Object512
+    400040: Object513
+    400042: Object514
+    400044: Object515
+    400046: Object516
+    400048: Object517
+    400050: Object518
+    400052: Object519
+    400054: Object520
+    400056: Object522
+    400058: Object523
+    400060: Object524
+    400062: Object525
+    400064: Object526
+    2100000: floor
+    2100002: beton
+    2100004: grey
+    2100006: walls
+    2100008: No Name
+    2300000: Object487
+    2300002: Object493
+    2300004: Object494
+    2300006: Object495
+    2300008: Object496
+    2300010: Object497
+    2300012: Object498
+    2300014: Object499
+    2300016: Object500
+    2300018: Object501
+    2300020: Object502
+    2300022: Object504
+    2300024: Object506
+    2300026: Object507
+    2300028: Object508
+    2300030: Object509
+    2300032: Object510
+    2300034: Object511
+    2300036: Object512
+    2300038: Object513
+    2300040: Object514
+    2300042: Object515
+    2300044: Object516
+    2300046: Object517
+    2300048: Object518
+    2300050: Object519
+    2300052: Object520
+    2300054: Object522
+    2300056: Object523
+    2300058: Object524
+    2300060: Object525
+    2300062: Object526
+    3300000: Object487
+    3300002: Object493
+    3300004: Object494
+    3300006: Object495
+    3300008: Object496
+    3300010: Object497
+    3300012: Object498
+    3300014: Object499
+    3300016: Object500
+    3300018: Object501
+    3300020: Object502
+    3300022: Object504
+    3300024: Object506
+    3300026: Object507
+    3300028: Object508
+    3300030: Object509
+    3300032: Object510
+    3300034: Object511
+    3300036: Object512
+    3300038: Object513
+    3300040: Object514
+    3300042: Object515
+    3300044: Object516
+    3300046: Object517
+    3300048: Object518
+    3300050: Object519
+    3300052: Object520
+    3300054: Object522
+    3300056: Object523
+    3300058: Object524
+    3300060: Object525
+    3300062: Object526
+    4300000: Object487
+    4300002: Object493
+    4300004: Object494
+    4300006: Object495
+    4300008: Object496
+    4300010: Object497
+    4300012: Object498
+    4300014: Object499
+    4300016: Object500
+    4300018: Object501
+    4300020: Object502
+    4300022: Object504
+    4300024: Object506
+    4300026: Object507
+    4300028: Object508
+    4300030: Object509
+    4300032: Object510
+    4300034: Object511
+    4300036: Object512
+    4300038: Object513
+    4300040: Object514
+    4300042: Object515
+    4300044: Object516
+    4300046: Object517
+    4300048: Object518
+    4300050: Object519
+    4300052: Object520
+    4300054: Object522
+    4300056: Object523
+    4300058: Object524
+    4300060: Object525
+    4300062: Object526
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
